@@ -18,4 +18,5 @@ def all_phrases
   all_phrases = "It's-a me, Mario!"
   all_phrases = "It's Dangerous To Go Alone! Take This."
   all_phrases = 'Thank You Mario! But Our Princess Is In Another Castle!'
+puts all_phrases
 end
