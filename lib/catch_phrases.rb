@@ -18,5 +18,4 @@ def all_phrases
   mario = "It's-a me, Mario!"
   link = "It's Dangerous To Go Alone! Take This."
   toadstool = 'Thank You Mario! But Our Princess Is In Another Castle!'
-puts all_phrases
 end
